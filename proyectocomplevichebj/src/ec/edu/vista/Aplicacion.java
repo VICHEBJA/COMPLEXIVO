@@ -59,7 +59,7 @@ public class Aplicacion {
     public static void potencia()
     { int r,e; int n=0;int p;
     Scanner entrada = new Scanner(System.in);
-    System.out.println("INGRESE NUMERO A POTENCIAR ");
+    System.out.println("INGRESE NUMERO A POTENCIAR PAG 18");
     n=entrada.nextInt();
     System.out.println("INGRESE ELEVACION DE POTENCIA PAG 18");
     p=entrada.nextInt();
