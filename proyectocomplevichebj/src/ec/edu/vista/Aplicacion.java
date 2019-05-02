@@ -61,7 +61,7 @@ public class Aplicacion {
     Scanner entrada = new Scanner(System.in);
     System.out.println("INGRESE NUMERO A POTENCIAR ");
     n=entrada.nextInt();
-    System.out.println("INGRESE ELEVACION DE POTENCIA ");
+    System.out.println("INGRESE ELEVACION DE POTENCIA PAG 18");
     p=entrada.nextInt();
     e=p; r=1;
     for(;p>0;p--)
