@@ -31,11 +31,7 @@ public class Aplicacion {
              break;
              default :  
              break;/* break; */
-            }
-                    
-        
-        
-        } v--;     
+            }} v--;     
     }
     public  static int metodoA()
     { //return 5;
